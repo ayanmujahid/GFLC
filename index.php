@@ -878,8 +878,8 @@
                             <li class="d-inline-block me-3 text-capitalize"><i class="ti-user me-2 text-primary"></i><a href="#">admin</a></li>
                             <li class="d-inline-block"><i class="ti-comment me-2 text-primary align-middle"></i> 06 Comment</li>
                         </ul>
-                        <h3 class="mb-3 h4"><a href="https://habitrohtml.websitelayout.net/#">How exercise can help you improve your health.</a></h3>
-                        <a href="https://habitrohtml.websitelayout.net/#" class="link-btn">Read More</a>
+                        <h3 class="mb-3 h4"><a href="#">How exercise can help you improve your health.</a></h3>
+                        <a href="#" class="link-btn">Read More</a>
                     </div>
                 </article>
             </div>
@@ -894,8 +894,8 @@
                             <li class="d-inline-block me-3 text-capitalize"><i class="ti-user me-2 text-primary"></i><a href="#">admin</a></li>
                             <li class="d-inline-block"><i class="ti-comment me-2 text-primary align-middle"></i> 10 Comment</li>
                         </ul>
-                        <h3 class="mb-3 h4"><a href="https://habitrohtml.websitelayout.net/#">The best time to drink water to boost energy.</a></h3>
-                        <a href="https://habitrohtml.websitelayout.net/#" class="link-btn">Read More</a>
+                        <h3 class="mb-3 h4"><a href="#">The best time to drink water to boost energy.</a></h3>
+                        <a href="#" class="link-btn">Read More</a>
                     </div>
                 </article>
             </div>
@@ -910,8 +910,8 @@
                             <li class="d-inline-block me-3 text-capitalize"><i class="ti-user me-2 text-primary"></i><a href="#">admin</a></li>
                             <li class="d-inline-block"><i class="ti-comment me-2 text-primary align-middle"></i> 18 Comment</li>
                         </ul>
-                        <h3 class="mb-3 h4"><a href="https://habitrohtml.websitelayout.net/#">Facts about eating slowly that will blow your mind.</a></h3>
-                        <a href="https://habitrohtml.websitelayout.net/#" class="link-btn">Read More</a>
+                        <h3 class="mb-3 h4"><a href="#">Facts about eating slowly that will blow your mind.</a></h3>
+                        <a href="#" class="link-btn">Read More</a>
                     </div>
                 </article>
             </div>
