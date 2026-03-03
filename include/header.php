@@ -88,7 +88,7 @@
                                                     <a href="#">Our Team</a>
                                                     <ul>
                                                         <li><a href="https://habitrohtml.websitelayout.net/#">Our Team</a></li>
-                                                        <li><a href="https://habitrohtml.websitelayout.net/team-details.html">Team Details</a></li>
+                                                        <li><a href="#">Team Details</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="https://habitrohtml.websitelayout.net/appointment.html">Appointment</a></li>

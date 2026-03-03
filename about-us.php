@@ -255,7 +255,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <h3 class="h4 mb-1"><a href="https://habitrohtml.websitelayout.net/team-details.html">Percy Rouse</a></h3>
+                        <h3 class="h4 mb-1"><a href="#">Percy Rouse</a></h3>
                         <p class="mb-0">Diet & Nutrition</p>
                     </div>
                 </div>
@@ -276,7 +276,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <h3 class="h4 mb-1"><a href="https://habitrohtml.websitelayout.net/team-details.html">Luca Bullen</a></h3>
+                        <h3 class="h4 mb-1"><a href="#">Luca Bullen</a></h3>
                         <p class="mb-0">Executive Officer</p>
                     </div>
                 </div>
@@ -297,7 +297,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <h3 class="h4 mb-1"><a href="https://habitrohtml.websitelayout.net/team-details.html">Laura Ash</a></h3>
+                        <h3 class="h4 mb-1"><a href="#">Laura Ash</a></h3>
                         <p class="mb-0">General Nutrition</p>
                     </div>
                 </div>
@@ -318,7 +318,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <h3 class="h4 mb-1"><a href="https://habitrohtml.websitelayout.net/team-details.html">Julia Conley</a></h3>
+                        <h3 class="h4 mb-1"><a href="#">Julia Conley</a></h3>
                         <p class="mb-0">General Dietician</p>
                     </div>
                 </div>
