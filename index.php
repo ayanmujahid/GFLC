@@ -11,12 +11,12 @@
                     <div class="row justify-content-center justify-content-sm-start align-items-center">
                         <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6">
                             <div class="p-4 p-sm-5 position-relative bg-white-opacity border-radius-10 box-shadow-style1">
-                                <span class="text-secondary title-font d-block mb-1 display-25 display-lg-23">It's not a diet, It's a GFLC</span>
+                                <span class="text-secondary title-font d-block mb-1 display-25 display-lg-23">It's a GFLC</span>
                                 <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-4 mb-4 title font-weight-400 lh-1">Enhance Your <span class="fw-bolder">Gluten-Free Lifestyle!</span></h1>
                                 <p class="w-md-95 w-lg-90 mb-1-6 mb-md-2-2">We encourage you to fix and forestall illness with nourishment for carrying on with your life in a solid manner.</p>
-                                <a href="#" class="butn secondary me-2 my-1 my-sm-0">
+                                <!-- <a href="#" class="butn secondary me-2 my-1 my-sm-0">
                                     <span>Read More</span>
-                                </a>
+                                </a> -->
                                 <a href="#" class="butn my-1 my-sm-0">Contact Us</a>
                             </div>
                         </div>
@@ -28,12 +28,12 @@
                     <div class="row justify-content-center justify-content-sm-start align-items-center">
                         <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6">
                             <div class="p-4 p-sm-5 position-relative bg-white-opacity border-radius-10 box-shadow-style1">
-                                <span class="text-secondary title-font d-block mb-1 display-25 display-lg-23">It's not a diet, It's a GFLC</span>
+                                <span class="text-secondary title-font d-block mb-1 display-25 display-lg-23">It's a GFLC</span>
                                 <h2 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-4 mb-4 title font-weight-400 lh-1">Enhance Your <span class="fw-bolder">Gluten-Free Lifestyle!</span></h2>
                                 <p class="w-md-95 w-lg-90 mb-2-2">We encourage you to fix and forestall illness with nourishment for carrying on with your life in a solid manner.</p>
-                                <a href="#" class="butn secondary me-2 my-1 my-sm-0">
+                                <!-- <a href="#" class="butn secondary me-2 my-1 my-sm-0">
                                     <span>Read More</span>
-                                </a>
+                                </a> -->
                                 <a href="#" class="butn my-1 my-sm-0">Contact Us</a>
                             </div>
                         </div>
@@ -45,12 +45,12 @@
                     <div class="row justify-content-center justify-content-sm-start align-items-center">
                         <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6">
                             <div class="p-4 p-sm-5 position-relative bg-white-opacity border-radius-10 box-shadow-style1">
-                                <span class="text-secondary title-font d-block mb-1 display-25 display-lg-23">It's not a diet, It's a GFLC</span>
+                                <span class="text-secondary title-font d-block mb-1 display-25 display-lg-23">It's a GFLC</span>
                                 <h2 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-4 mb-4 title font-weight-400 lh-1">Enhance Your <span class="fw-bolder">Gluten-Free Lifestyle!</span></h2>
                                 <p class="w-md-95 w-lg-90 mb-2-2">We encourage you to fix and forestall illness with nourishment for carrying on with your life in a solid manner.</p>
-                                <a href="#" class="butn secondary me-2 my-1 my-sm-0">
+                                <!-- <a href="#" class="butn secondary me-2 my-1 my-sm-0">
                                     <span>Read More</span>
-                                </a>
+                                </a> -->
                                 <a href="#" class="butn my-1 my-sm-0">Contact Us</a>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
 
 <!-- CLIENTS
         ================================================== -->
-<section class="md">
+<!-- <section class="md">
     <div class="container">
         <div class="owl-carousel owl-theme client-style1 text-center">
             <div class="image-wrapper">
@@ -102,12 +102,13 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- ABOUTUS
         ================================================== -->
 <section class="pt-0 pb-18 pb-lg-21 pb-xl-24">
     <div class="container">
+        
         <div class="row align-items-xl-center border-top pt-6 pt-sm-8 pt-lg-10 pt-xl-15 border-color-extra-light-gray">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative text-end">
@@ -124,7 +125,7 @@
                     <p class="text-secondary lead title-font">Hi, I’m Andrea Meryl and I care about you!</p>
                     <p>I became a gluten-free coach after my journey to create a joyful lifestyle without gluten. A personal desire to be healthy, eat great tasting food and enjoy a gluten-free lifestyle led me to become a coach to help others who exclude gluten in any food, medicine or beauty products.</p>
                     <p>Coaching clients is a natural fit for my ability to communicate clearly with people. I truly care about you and all who face food allergies and intolerances. In addition to being gluten-intolerant, I am also dairy intolerant. I know this life from the inside because I live it everyday.</p>
-                    <div class="row border-top border-bottom py-4 mb-1-9">
+                    <!-- <div class="row border-top border-bottom py-4 mb-1-9">
                         <div class="col-sm-6 mb-3 mb-sm-0">
                             <div class="d-flex align-items-center">
                                 <div class="flex-shrink-0">
@@ -145,7 +146,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <a href="about-us.php" class="butn secondary">Learn More</a>
                 </div>
             </div>
@@ -158,6 +159,11 @@
         ================================================== -->
 <section class="p-0 bg-transparent overflow-visible feature-block">
     <div class="container">
+        <div class="section-heading">
+            <!-- <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">What we offer</span> -->
+            <h2>MY<span class="fw-bolder"> APPROACH</span></h2>
+            <!-- <p class="mb-0 w-md-90 w-lg-70 w-xl-60 w-xxl-55 mx-auto">We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.</p> -->
+        </div>
         <div class="row mt-n1-9">
             <div class="col-md-6 col-xxl-3 mt-1-9">
                 <div class="bg-white p-2-3 h-100 card-style7">
@@ -215,7 +221,7 @@
                     </div>
                     <!-- <h4 class="mb-0 text-primary">Find Out More</h4> -->
                     <p>Go Beyond Banishing Gluten to Create a Fulfilling Gluten-Free Lifestyle</p>
-                    <a href="#" class="butn my-1 my-sm-0">Find Out More</a>
+                    <a href="approach.php" class="butn my-1 my-sm-0">Find Out More</a>
                 </div>
             </div>
         </div>
@@ -224,21 +230,26 @@
 
 <section class="overflow-visible">
     <div class="container">
+        <div class="section-heading mt-4">
+            <!-- <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">What we offer</span> -->
+            <h2>MY<span class="fw-bolder"> COACHING</span></h2>
+            <!-- <p class="mb-0 w-md-90 w-lg-70 w-xl-60 w-xxl-55 mx-auto">We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.</p> -->
+        </div>
         <div class="row">
             <div class="col-md-12 justify-content-center">
                 <div class="image-wrapper pb-sm-10 pb-md-1-6 pb-lg-0">
                     <div class="image-hover">
                         <img src="assets/images/vid-thumb-1.jpg" class="border-radius-10" alt="...">
                     </div>
-                    <div class="about-video-wrapper story-video text-center bg-primary border-radius-10">
-                        <a class="video video_btn small bg-white" href="https://www.youtube.com/watch?v=-ESQmzDbnL8"><i class="fas fa-play text-secondary"></i></a>
+                    <div class="about-video-wrapper  text-center bg-primary border-radius-10">
+                        <a class="video video_btn small bg-white" href="coaching.php"><i class="fas fa-play text-secondary"></i></a>
                         <div class="d-inline-block align-middle ps-2-5 text-white text-start font-weight-600">My Promise <span class="text-uppercase d-block">to You</span></div>
                         <p class="mb-0 text-white mt-2-5">I promise to help you achieve a rewarding gluten-free lifestyle. Your coaching program is a joint venture between you and me.</p>
                         <div class="signatures">
                             <a href="coaching.php" class="signature">Andrea Meryl Skolnick</a>
 
                             <a href="coaching.php" class="special-btn">
-                                Explore My Dynamic Program
+                                Explore My Coaching
                             </a>
                         </div>
 
@@ -251,6 +262,11 @@
 
 <section>
     <div class="container">
+        <div class="section-heading mt-4">
+            <!-- <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">What we offer</span> -->
+            <h2>YOUR<span class="fw-bolder"> COMMUNITY</span></h2>
+            <!-- <p class="mb-0 w-md-90 w-lg-70 w-xl-60 w-xxl-55 mx-auto">We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.</p> -->
+        </div>
         <div class="row align-items-xl-center">
             <div class="col-lg-6 mb-2-5 mb-lg-0">
                 <div class="position-relative me-1-9 text-center text-lg-start">
@@ -258,13 +274,13 @@
                         <img src="assets/images/community.jpg" class="border-radius-10" alt="...">
                     </div>
                     <h4 class="about-box border-radius-10">
-                        We Are a Gluten-Free Community
+                       Join our Gluten-Free Community
                     </h4>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="ps-lg-2-5 ps-xl-6">
-                    <h2 class="h1 mb-1-6 font-weight-400">Let's help create a positive gluten-free life for everyone in the gluten-free community. Together, we can participate in making gluten-free life easier to achieve.</h2>
+                    <h2 class="h1 mb-1-6 font-weight-400">Let's help create a positive gluten-free life for everyone in the gluten-free community. Together, we can participate in making a gluten-free life easier to achieve.</h2>
 
                     <!-- <p class="mb-1-6 lead">We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.</p>
                     <ul class="list-style1 mb-0">
@@ -282,7 +298,7 @@
 
 <!-- SERVICE
         ================================================== -->
-<section class="bg-light pt-21 pt-xl-24">
+<!-- <section class="bg-light pt-21 pt-xl-24">
     <div class="container">
         <div class="section-heading">
             <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">What we offer</span>
@@ -372,7 +388,7 @@
     </div>
     <div class="bg-secondary p-2-2 rounded-circle position-absolute bottom-10 left-5 d-none d-lg-block"></div>
     <div class="bg-primary p-3 rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none d-lg-block"></div>
-</section>
+</section> -->
 
 <!-- EXTRA
         ================================================== -->
@@ -394,7 +410,7 @@
 
 <!-- TEAM
         ================================================== -->
-<section class="overflow-visible">
+<!-- <section class="overflow-visible">
     <div class="container">
         <div class="section-heading">
             <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">Diet & nutrition experts</span>
@@ -492,11 +508,11 @@
     <div class="bg-primary p-2-0 d-sm-inline-block rounded-circle position-absolute top-5 right-10 z-index-3 d-none"></div>
     <div class="bg-secondary p-3 d-sm-inline-block rounded-circle position-absolute top-5 right-10 z-index-3 ani-left-right d-none"></div>
     <div class="bg-transparent border-width-2 border-solid border-secondary p-1-9 d-sm-inline-block rounded-circle position-absolute bottom-10 left-5 ani-top-bottom d-none"></div>
-</section>
+</section> -->
 
 <!-- COUNTER
         ================================================== -->
-<section class="p-1-9 p-md-5 bg-secondary border-radius-10 mx-auto w-95">
+<!-- <section class="p-1-9 p-md-5 bg-secondary border-radius-10 mx-auto w-95">
     <div class="container">
         <div class="row text-center position-relative z-index-1">
             <div class="col-sm-6 col-lg-3 mb-1-6 mb-sm-1-9 mb-lg-0">
@@ -545,11 +561,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- PRICING
         ================================================== -->
-<section>
+<!-- <section>
     <div class="container">
         <div class="section-heading">
             <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">Our pricing plans</span>
@@ -631,7 +647,7 @@
     </div>
     <div class="bg-primary p-8 p-lg-9 rounded-circle position-absolute top-5 right-n5 ani-left-right d-none d-lg-inline-block"></div>
     <div class="bg-transparent border-width-2 border-solid border-secondary p-8 p-lg-9 d-lg-inline-block rounded-circle position-absolute top-10 right-n5 z-index-1 ani-top-bottom d-none"></div>
-</section>
+</section> -->
 
 <!-- WHY CHOOSE US
         ================================================== -->
@@ -719,7 +735,7 @@
 
 <!-- PROCESS
         ================================================== -->
-<section class="overflow-visible">
+<!-- <section class="overflow-visible">
     <div class="container">
         <div class="section-heading">
             <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">How to start</span>
@@ -771,21 +787,21 @@
     </div>
     <div class="bg-transparent border-width-2 border-solid border-primary p-7 d-lg-block rounded-circle position-absolute top-n10 left-5 z-index-3 ani-left-right d-none"></div>
     <div class="bg-light-brown z-index-2 p-6 d-lg-block rounded-circle position-absolute top-n10 left-5 ani-top-bottom d-none"></div>
-</section>
+</section> -->
 
 <!-- TESTIMONIAL
         ================================================== -->
-<section class="mx-lg-6 mx-xl-9 mx-xxl-12 p-0 testimonial-1 overflow-visible">
+<section class="mx-lg-6 mx-xl-9 mx-xxl-12 p-0 testimonial-1 overflow-visible mt-6">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-md-5 col-xl-6 pe-md-0 d-none d-lg-block">
+            <!-- <div class="col-md-5 col-xl-6 pe-md-0 d-none d-lg-block">
                 <div class="position-relative h-100 vw-lg-50 bg-img cover-background overflow-visible py-8 py-xl-10 border-start-md-radius-10 border-top-sm-radius-10" data-overlay-dark="0" data-background="assets/images/test.jpg"></div>
-            </div>
-            <div class="col-lg-7 col-xl-6 ps-lg-0">
+            </div> -->
+            <div class="col-lg-12 col-xl-12 ps-lg-0">
                 <div class="bg-light h-100 position-relative p-2-2 p-lg-8 p-xl-10 p-xxl-13 border-end-md-radius-10 border-bottom-sm-radius-10">
                     <div class="section-heading text-start mb-4">
                         <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">Testimonials</span>
-                        <h2 class="mb-0">Listen To What Our <span class="fw-bolder">Clients Say</span></h2>
+                        <h2 class="mb-0">Read What <span class="fw-bolder">Andrea's</span> Clients Say</h2>
                     </div>
                     <div class="testimonial-style1 owl-carousel owl-theme">
                         <div>
@@ -863,7 +879,7 @@
     <div class="container">
         <div class="section-heading">
             <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">Our blogs</span>
-            <h2>Our latest<span class="fw-bolder"> blogs</span></h2>
+            <h2>Read our latest<span class="fw-bolder"> blogs & recipes</span></h2>
             <p class="mb-0 w-md-90 w-lg-70 w-xl-60 w-xxl-55 mx-auto">We connect buyers and sellers of natural, organic, environmentally sound products. We find the best suppliers and makers of natural and organic products.</p>
         </div>
         <div class="row g-xl-5 mt-n2-9">

@@ -47,6 +47,35 @@ document.querySelectorAll('.coaching-header').forEach(header => {
   });
 });
 </script>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const progressBar = document.querySelector(".progress-bar");
+    const progressText = document.querySelector(".progress-text");
+
+    let progress = 0;
+    const radius = 50;
+    const circumference = 2 * Math.PI * radius;
+
+    const interval = setInterval(() => {
+      progress++;
+
+      const offset = circumference - (progress / 100) * circumference;
+      progressBar.style.strokeDashoffset = offset;
+
+      progressText.textContent = progress + "%";
+
+      if (progress >= 100) {
+        clearInterval(interval);
+
+        // Hide preloader smoothly
+        document.getElementById("preloader").style.opacity = "0";
+        setTimeout(() => {
+          document.getElementById("preloader").style.display = "none";
+        }, 500);
+      }
+    }, 20); // speed control
+  });
+</script>
 
 
 </body>

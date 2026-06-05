@@ -1,6 +1,23 @@
 <!-- PAGE LOADING
     ================================================== -->
-<div id="preloader"></div>
+<div id="preloader">
+  <div class="loader-wrapper">
+
+    <!-- SVG Circular Progress  -->
+    <svg class="progress-ring" width="120" height="120">
+      <circle class="progress-bg" cx="60" cy="60" r="50"></circle>
+      <circle class="progress-bar" cx="60" cy="60" r="50"></circle>
+    </svg>
+
+    <!-- Logo  -->
+    <img src="assets/images/logo-bg-v1.png" alt="Logo" class="loader-logo">
+
+    <!-- Percentage  -->
+    <div class="progress-text">0%</div>
+  </div>
+</div>
+
+
 
 <!-- MAIN WRAPPER
     ================================================== -->
@@ -24,9 +41,12 @@
           <div class="col-xs-12 col-md-3 d-none d-md-block">
             <ul class="top-social-icon ps-0">
               <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+
+              <li><a href="#"><i class="fa-brands fa-bluesky"></i></a></li>
               <li><a href="#"><i class="fab fa-instagram"></i></a></li>
               <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+              <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+              <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
             </ul>
           </div>
         </div>
@@ -38,7 +58,7 @@
       <!-- start top search -->
       <div class="top-search bg-primary">
         <div class="container">
-          <form class="search-form" action="https://habitrohtml.websitelayout.net/search.html" method="GET" accept-charset="utf-8">
+          <form class="search-form" action="#" method="GET" accept-charset="utf-8">
             <div class="input-group">
               <span class="input-group-addon cursor-pointer">
                 <button class="search-form_submit fas fa-search text-white" type="submit"></button>
@@ -59,7 +79,7 @@
 
                 <div class="navbar-header navbar-header-custom">
                   <!-- start logo -->
-                  <a href="index.php" class="navbar-brand logodefault"><img id="logo" src="assets/images/logo-bg.png" alt="logo"></a>
+                  <a href="index.php" class="navbar-brand logodefault"><img id="logo" src="assets/images/logo-bg-v1.png" alt="logo"></a>
                   <!-- end logo -->
                 </div>
 
@@ -180,6 +200,7 @@
                   <li><a href="approach.php" class="active">Approach</a></li>
                   <li><a href="coaching.php" class="active">Coaching</a></li>
                   <li><a href="community.php" class="active">Community</a></li>
+                  <li><a href="blogs.php" class="active">Blogs</a></li>
                   <li><a href="contact-us.php" class="active">Contact</a></li>
                 </ul>
                 <!-- end menu area -->
@@ -188,7 +209,7 @@
                 <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                   <ul>
                     <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
-                    <li class="d-none d-xl-inline-block"><a href="#" class="butn sm"><span>Free Quote</span></a></li>
+                    <li class="d-none d-xl-inline-block"><a href="#" class="butn sm"><span>Free Consultation</span></a></li>
                   </ul>
                 </div>
                 <!-- end attribute navigation -->
